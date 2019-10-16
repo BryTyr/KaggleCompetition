@@ -1,7 +1,8 @@
 # KaggleCompetition
 This is a sequential model I built to predict the values of income based on selected features
 
-for preprocessing I used a mix of
+for preprocessing I used a mix of:
+
 -One hot encoding
 -Back-fill/mean-fill of missing values
 -irrelevant feature pruning

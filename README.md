@@ -13,7 +13,7 @@ for preprocessing I used a mix of:
 Model:
 I used Keras Sequential model with 3 layers two of which had 64 nodes and third have 32 nodes, an adam optimizer and an early callback with a patience of 10 epochs.
 
-I would like to give credit to this10 epochs tutorial as it gave me great insight on how to build the model:
+I would like to give credit to this tutorial as it gave me great insight on how to build the model:
 https://www.tensorflow.org/tutorials/keras/regression
 
 I achived a RSME of 61,234 on my final submission.
